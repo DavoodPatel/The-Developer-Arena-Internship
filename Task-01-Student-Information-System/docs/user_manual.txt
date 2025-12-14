@@ -1,0 +1,7 @@
+USER MANUAL
+
+1. Run the application
+2. Choose menu option
+3. Enter required input
+4. Follow on-screen instructions
+5. Exit using option 6
